@@ -25,4 +25,3 @@ export const selectedProduct = (product) => {
     payload: product,
   };
 };
-//comment
